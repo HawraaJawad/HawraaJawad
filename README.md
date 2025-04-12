@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hawraa Jawad</h1>
-<h3 align="center">Data Scientist | Machine Learning & Deep Learning Enthusiast | NLP Specialist</h3>
+<h3 align="center">Data Scientist | Machine Learning & Deep Learning Enthusiast </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250" alt="Coding Gif" />
